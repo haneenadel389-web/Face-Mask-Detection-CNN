@@ -75,7 +75,8 @@ This system can be integrated into smart surveillance cameras and real-time moni
 
 | File | Description |
 |---|---|
-| `Face Mask Detection.ipynb` | Full notebook (data loading, training, evaluation) |
+| `Face_Mask_Detection.ipynb` | Full notebook (data loading, training, evaluation) |
+| `Face_Mask_Detection.pdf` | Project presentation |
 | `Confusion_Matrix.jpg` | Confusion matrix visualization |
 | `Learning_Rate_Finder.jpg` | LR finder plot |
 | `Learning_Curve.jpg` | Training vs validation loss curve |
